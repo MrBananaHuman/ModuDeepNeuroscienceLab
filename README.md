@@ -1,5 +1,5 @@
 # ModuDeepNeuralLab
-모두의 연구소 Deep Neural Lab의 실습 자료
+모두의 연구소 Deep Neural Lab (DNL)의 Nengo 실습 자료
 
 
 공부 내용 정리: https://www.notion.so/dnlstudy/
