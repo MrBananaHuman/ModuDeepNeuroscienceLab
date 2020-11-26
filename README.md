@@ -1,4 +1,4 @@
-# ModuDeepNeuralLab
+# ModuDeepNeuroscienceLab
 모두의 연구소 Deep Neuroscience Lab (DNL)의 Nengo 실습 자료
 
 
